@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'aaQwertz-Tasten'; 
+    src: url('fonts/aaQwertz-Tasten.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'Accelera'; 
+    src: url('fonts/Accelera.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'Alien-Encounters'; 
+    src: url('fonts/Alien-Encounters-Regular.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'alarmclockFont'; 
+    src: url('fonts/alarm\ clock.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'KarstarFont'; 
+    src: url('fonts/Karstar\ Free.ttf') format('truetype'); 
+}
+
+h1[name="saludo"] {
+    font-family: 'aaQwertz-Tasten', sans-serif;
+}
+
+h1[name="titulo"] {
+    font-family: 'Accelera', sans-serif;
+}
+
+h2[name="subtitulo"] {
+    font-family: 'Alien-Encounters', sans-serif;
+}
+
+h1[name="navbar-title"] {
+    font-family: 'alarmclockFont', sans-serif;
+}
+
+p{
+    font-family: "Monserrat";
+}
+
+p[name="firma"] {
+    font-family: 'KarstarFont', sans-serif;
+}
